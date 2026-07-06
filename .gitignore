@@ -1,0 +1,11 @@
+# LocalFlow core is closed source: nothing below may ever be committed here.
+*.py
+*.pyc
+__pycache__/
+LocalFlow.app/
+docs/
+dist/
+scripts/build_pkg.sh
+scripts/install.sh
+scripts/setup.sh
+assets/icon.png
